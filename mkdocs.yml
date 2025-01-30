@@ -1,8 +1,8 @@
 # [Info] 基本信息
-site_name: Tele # 左上角标题
-site_url: https://xuxu0927.github.io/Tele/
+site_name: Baodian # 左上角标题
+site_url: https://xuxu0927.github.io/baodian/
 site_author: Xuxu0927
-site_description: 通信learn
+site_description: 高中数学思维宝典
 
 
 # [UI] 界面设置
@@ -14,7 +14,7 @@ theme:
     text: Roboto
   palette: 
     - scheme: default # 默认日间模式
-      primary: yellow # 上方的
+      primary: blue # 上方的
       accent: orange # 链接等可交互元件的高亮色
       toggle:
         icon: material/weather-night # 图标
@@ -40,7 +40,7 @@ theme:
     repo: fontawesome/brands/github-alt
 edit_uri: edit/main/docs # 编辑按钮跳转的链接
 ## [top-right corner]
-repo_url: https://github.com/Xuxu0927/Tele # 右上角点击跳转的链接
+repo_url: https://github.com/Xuxu0927/baodian # 右上角点击跳转的链接
 repo_name: Tele # 右上角的名字
 ## [bottom-left corner]
 copyright: Copyright &copy; 2024 gis-xh # 左下角的版权声明
