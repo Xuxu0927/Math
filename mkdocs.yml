@@ -1,8 +1,8 @@
 # [Info] 基本信息
-site_name: Baodian # 左上角标题
-site_url: https://xuxu0927.github.io/baodian/
+site_name: Math # 左上角标题
+site_url: https://xuxu0927.github.io/Math/
 site_author: Xuxu0927
-site_description: 高中数学思维宝典
+site_description: Math
 
 
 # [UI] 界面设置
@@ -40,8 +40,8 @@ theme:
     repo: fontawesome/brands/github-alt
 edit_uri: edit/main/docs # 编辑按钮跳转的链接
 ## [top-right corner]
-repo_url: https://github.com/Xuxu0927/baodian # 右上角点击跳转的链接
-repo_name: Tele # 右上角的名字
+repo_url: https://github.com/Xuxu0927/Math # 右上角点击跳转的链接
+repo_name: Math # 右上角的名字
 ## [bottom-left corner]
 copyright: Copyright &copy; 2024 gis-xh # 左下角的版权声明
 ## [bottom-right corner]
@@ -105,15 +105,23 @@ extra_css:
 
   # [Navigtion] 导航栏
 nav:
-  - 课程: 
-    - index.md
-    - 高中数学思想: 高中数学思想/高中数学思想.md
-    - 函数: 函数/函数.md
-    - 数列: 数列/数列.md
-    - 立体几何: 立体几何/立体几何.md
-    - 向量: 向量/向量.md
-    - 不等式: 不等式/不等式.md
-    - 解析几何: 解析几何/解析几何.md
-    - 导数: 导数/导数.md
-    - 其它定理公式: 其它定理公式/其它定理公式.md
-    - 尾言: 尾言/尾言.md
+  - Math: 
+    - Math/index.md
+    - 工具软件: Math/工具软件/Mathtools.md
+    - 数学分析:
+      - 数学分析: Math/数学分析/数学分析.md
+    - 高等代数:
+      - Gilbert Strang: Math/高等代数/Gilbert Strang.md
+      - 丘维声: Math/高等代数/丘维声.md
+  - 高中宝典: 
+    - 高中宝典/index.md
+    - 高中数学思想: 高中宝典/高中数学思想/高中数学思想.md
+    - 函数: 高中宝典/函数/函数.md
+    - 数列: 高中宝典/数列/数列.md
+    - 立体几何: 高中宝典/立体几何/立体几何.md
+    - 向量: 高中宝典/向量/向量.md
+    - 不等式: 高中宝典/不等式/不等式.md
+    - 解析几何: 高中宝典/解析几何/解析几何.md
+    - 导数: 高中宝典/导数/导数.md
+    - 其它定理公式: 高中宝典/其它定理公式/其它定理公式.md
+    - 尾言: 高中宝典/尾言/尾言.md
