@@ -105,8 +105,8 @@ extra_css:
 
   # [Navigtion] 导航栏
 nav:
-  - index.md
   - Math: 
+    - index.md
     - 工具软件: Math/工具软件/Mathtools.md
     - 数学分析:
       - 数学分析: Math/数学分析/数学分析.md
